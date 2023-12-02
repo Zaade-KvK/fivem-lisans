@@ -123,7 +123,10 @@
       "ip":"213.238.177.17155",
       "hash":"zade.rrzKQpeGBQJFU.fx", 
       "owner":"Doxria,Zade",
-   },
+   }, 
+
+---------------------------------------------------------------------
+   
    {
       "ip":"185.254.238.214",
       "hash":"zade.rrzKQpeGBQJFU.fx", 
@@ -131,6 +134,11 @@
    },
    {
       "ip":"193.53.40.77",
+      "hash":"zade.rrzKQpeGBQJFU.fx", 
+      "owner":"Doxria,Zade",
+   },
+   {
+      "ip":"213.238.177.214",
       "hash":"zade.rrzKQpeGBQJFU.fx", 
       "owner":"Doxria,Zade",
    },
